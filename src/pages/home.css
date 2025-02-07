@@ -1,0 +1,20 @@
+*{
+
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+#HeroContainer{
+    background-image: url(../pages/homeImages/frame.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cardContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px 0px;
+    flex-wrap: wrap;
+    gap: 20px;
+} 
